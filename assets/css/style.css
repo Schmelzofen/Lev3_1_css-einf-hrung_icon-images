@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+}
+
+p{
+    font-size: 3rem;
+}
+
+i{
+    padding: 5px;
+    font-size: 36px;
+}
+
+.fi-snsuxl-facebook{
+    color: #1877F2;
+}
+
+.fi-xnsuxl-instagram{
+    color: #E4405F;
+}
+
+.fi-swsuxl-youtube{
+    color: #CD201F;
+}
+
+.fi-snsuxl-linkedin{
+    color: #0A66C2;
+}
+
+.fi-xnsuxl-whatsapp{
+    color: #25D366;
+}
